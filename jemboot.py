@@ -85,8 +85,8 @@ def tik():
 	for o in titik:
 		print("\r\033[1;97m[\033[1;93m●\033[1;97m]\033[1;93m Sedang Masuk\033[1;97m "+o),;sys.stdout.flush();time.sleep(1)
 
-CorrectUsername = "zfJeidjPuTeEZCZBV1htZABlXbV3Ftl9fEsA04Ph2ZCIg2Czd2bJZBRcZBGWrqvThPuH9u2uhm"
-CorrectPassword = "404"
+CorrectUsername = "boy"
+CorrectPassword = "hamzah"
 
 loop = 'true'
 while (loop == 'true'):
